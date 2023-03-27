@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="de.buw.fm4se.AlloyAnalyzerRedundantTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2023-03-17T17:23:52" hostname="Shyakens-MacBook-Air-2.local" time="0.554">
+  <properties/>
+  <testcase name="houses()" classname="de.buw.fm4se.AlloyAnalyzerRedundantTest" time="0.268"/>
+  <testcase name="testDreadbury()" classname="de.buw.fm4se.AlloyAnalyzerRedundantTest" time="0.068"/>
+  <testcase name="FileSystemModel()" classname="de.buw.fm4se.AlloyAnalyzerRedundantTest" time="0.076"/>
+  <testcase name="testDreadbury2()" classname="de.buw.fm4se.AlloyAnalyzerRedundantTest" time="0.023"/>
+  <testcase name="testDreadbury3()" classname="de.buw.fm4se.AlloyAnalyzerRedundantTest" time="0.038"/>
+  <testcase name="car()" classname="de.buw.fm4se.AlloyAnalyzerRedundantTest" time="0.014"/>
+  <testcase name="productPrice()" classname="de.buw.fm4se.AlloyAnalyzerRedundantTest" time="0.067"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
+</testsuite>
